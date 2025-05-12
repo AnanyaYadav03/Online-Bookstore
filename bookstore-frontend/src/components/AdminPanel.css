@@ -1,0 +1,19 @@
+.admin-panel {
+    padding: 2rem;
+    background: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  .admin-panel h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .admin-panel ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .admin-panel li {
+    margin: 10px 0;
+  }
+  
